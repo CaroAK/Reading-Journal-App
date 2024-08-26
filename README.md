@@ -1,7 +1,11 @@
 # Book Journaling App 
 
-## Overview
+## Description
 The Book Journal is a web application designed to help users manage and track their reading experiences. The app allows users to add, edit, and delete book entries, and search through their books. It is built using React and styled with Bootstrap.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b8cfd06c-87ff-460f-943c-97616296dc47" alt="React_App" width="500" height="auto"/>
+</div>
 
 ## Key Features
 * Add a Book Entry: Record details such as title, author, start date, and end date, as well as details like key pages and other notes.
